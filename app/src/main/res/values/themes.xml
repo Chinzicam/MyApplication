@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 基于 AppCompat 的浅色主题（m210 同款依赖栈：appcompat + material） -->
+    <style name="Theme.MyApplication" parent="Theme.AppCompat.Light.NoActionBar" />
+</resources>

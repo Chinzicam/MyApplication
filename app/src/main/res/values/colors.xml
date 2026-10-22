@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 主色：简洁中性蓝 -->
+    <color name="colorPrimary">#2962FF</color>
+    <color name="colorPrimaryDark">#1E4FD8</color>
+    <color name="colorAccent">#2962FF</color>
+
+    <color name="income">#2E7D32</color>
+    <color name="incomeLight">#E8F5E9</color>
+    <color name="expense">#D84315</color>
+    <color name="expenseLight">#FBE9E7</color>
+
+    <color name="textPrimary">#212121</color>
+    <color name="textSecondary">#757575</color>
+    <color name="divider">#EEEEEE</color>
+    <color name="bgPage">#F7F8FA</color>
+    <color name="bgCard">#FFFFFF</color>
+
+    <!-- 图表分类配色 -->
+    <color name="chart1">#2962FF</color>
+    <color name="chart2">#43A047</color>
+    <color name="chart3">#FB8C00</color>
+    <color name="chart4">#8E24AA</color>
+    <color name="chart5">#00ACC1</color>
+    <color name="chart6">#F4511E</color>
+    <color name="chart7">#7CB342</color>
+    <color name="chart8">#D81B60</color>
+    <color name="chart9">#5C6BC0</color>
+    <color name="chart10">#78909C</color>
+</resources>

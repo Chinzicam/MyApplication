@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:gravity="center_vertical"
+    android:orientation="horizontal"
+    android:paddingTop="8dp"
+    android:paddingBottom="8dp">
+
+    <View
+        android:id="@+id/view_dot"
+        android:layout_width="10dp"
+        android:layout_height="10dp"
+        android:background="@drawable/bg_dot" />
+
+    <TextView
+        android:id="@+id/tv_sum_name"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="10dp"
+        android:layout_weight="1"
+        android:textColor="@color/textPrimary"
+        android:textSize="13sp"
+        tools:text="餐饮" />
+
+    <TextView
+        android:id="@+id/tv_sum_pct"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/textSecondary"
+        android:textSize="12sp"
+        tools:text="42.0%" />
+
+    <TextView
+        android:id="@+id/tv_sum_amount"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:textColor="@color/textPrimary"
+        android:textSize="13sp"
+        tools:text="1,234.00 元" />
+
+</LinearLayout>

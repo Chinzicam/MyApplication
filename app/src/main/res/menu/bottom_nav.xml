@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_today"
+        android:icon="@drawable/ic_tab_today"
+        android:title="@string/tab_today" />
+    <item
+        android:id="@+id/nav_records"
+        android:icon="@drawable/ic_tab_records"
+        android:title="@string/tab_records" />
+    <item
+        android:id="@+id/nav_month"
+        android:icon="@drawable/ic_tab_month"
+        android:title="@string/tab_month" />
+    <item
+        android:id="@+id/nav_year"
+        android:icon="@drawable/ic_tab_year"
+        android:title="@string/tab_year" />
+</menu>
